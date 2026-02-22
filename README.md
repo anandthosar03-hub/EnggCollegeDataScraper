@@ -71,11 +71,7 @@ The application attempts to collect:
 - WebDriver Manager
 - Tkinter
 
----
 
-
-
----
 
 ## ⚙️ Installation
 
@@ -155,32 +151,7 @@ The Excel file will be saved in the `output/` directory.
 * Logs → `logs/`
 * Excel Files → `output/`
 
----
 
-## 🔮 Future Enhancements
-
-* Database integration
-* API-based data collection
-* Multi-threaded scraping
-* Caching system
-* Support for more institutions
-
----
-
-## 📜 License
-
-This project is developed for educational purposes. Please use responsibly and comply with all website policies.
-
----
 
 ⭐ If you found this project helpful, consider giving it a star!
 
-```
-
----
-
-If you want, I can now create:
-- 🔥 A modern GitHub project banner  
-- 📄 A resume-ready project description  
-- 🚀 A LinkedIn project showcase version
-```
